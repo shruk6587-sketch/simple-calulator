@@ -11,11 +11,11 @@ It is a simple and responsive Calculator application built using HTML, CSS, and 
 🚀 Live Demo
 
 🌐 Live Website:
-https://YOUR-LIVE-DEMO-LINK
+https://shruk6587-sketch.github.io/simple-calulator/
 
 💻 GitHub Repository:
 
-
+https://github.com/shruk6587-sketch/simple-calulator.git
 ---
 
 ✨ Features
